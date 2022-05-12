@@ -1,0 +1,9 @@
+{
+    "name": "hp/amouzou.carine",
+    "autoload": {
+        "psr-4": {
+            "ATBC\\Models\\": "models/"
+        }
+    },
+    "require": {}
+}
